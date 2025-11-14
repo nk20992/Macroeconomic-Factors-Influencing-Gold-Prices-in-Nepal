@@ -1,0 +1,8 @@
+**Analysis Summary**
+
+- Gold price and USD exchange rates (buy/sell) are highly correlated each year, suggesting a direct relationship between currency values and gold valuation in Nepal.
+- Inflation rate shows a moderately negative correlation with gold price, indicating that years of higher inflation do not always correspond to higher gold prices in this dataset.
+- All data values (inflation etc.) are positive; negative correlation means trends move oppositely on average.
+- These results highlight that currency dynamics are a key driver of gold price, while inflation effects may be more complex over annual periods.
+
+_Recommendation:_ For deeper analysis, explore monthly or seasonal trends and consider additional macroeconomic variables.
